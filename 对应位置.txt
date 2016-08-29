@@ -1,0 +1,69 @@
+# account
+expand_on kw.expend_on
+
+# calendar
+constellation   np.constellation
+festival   time.festival	
+zone    time_zone.txt
+
+# beauty
+keywords+beauty   kw.rqt.picture  
+
+# codriver
+# codriver/app_name			# np.app_name
+
+# digital_product
+# digital_product/brand		# np.brand.digital_product
+# same
+
+# exchange
+# exchange/currency			# np.currency
+
+# expressage
+# expressage/express_company	# np.express_com
+
+# film_news
+# film_news/tag				# tag.video.tv tag.video.movie
+
+# flight
+# flight/airline				# np.org.airline.domestic np.org.airline.foreign
+
+# freezer
+# freezer/food_name			# np.food
+
+# hotel
+# hotel/hotel_name				# kw.hotel np.brand.hotel	np.hotel_b.uni	np.hotel_name_nuomi np.hotel_name_qunar np.brand.hotel_luxury np.brand.hotel.luxury.2 np.hotel_name np.hotel_b
+# hotel/room_type				# kw.room_type
+
+# joke
+# joke/type 					# tag.joke
+
+# lbs/route
+# lbs/lbs_tag					# tag.lbs
+
+# lbs/line
+# lbs/line/bus_type			# np.bus_line
+
+# lottery
+# lottery/name					# np.lottery
+
+# map
+# map/lbs_tag					# tag.lbs
+
+# message
+# public/call/qinqi.dict		# np.appellation.occupation
+
+# music
+# music/type music/type2	# tag.music
+# music/album					# np.album
+# public/language				# np.language.domestic np.language.foreign
+# music/instrument				# np.instrument
+# public/country				# space.regional.nation
+
+# person
+# person/title					# np.appellation.title
+
+# sns
+# public/call/qinqi.dict		# np.appellation.occupation
+
+
