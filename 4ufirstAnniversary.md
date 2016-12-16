@@ -100,3 +100,9 @@ category: 有你有诗
 是不
 
 ![第四天成果](images/day5.jpg)
+
+### day6：很快吧
+呀呀呀
+时间紧迫啦
+
+![第四天成果](images/day6.jpg)
